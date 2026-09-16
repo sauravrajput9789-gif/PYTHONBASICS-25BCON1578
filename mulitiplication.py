@@ -1,5 +1,6 @@
+#intialize the number
 import random
-
+#for loop
 num = random.randint(1, 10)
 
 print("Multiplication Table of", num)
